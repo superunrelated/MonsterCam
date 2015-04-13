@@ -1,3 +1,2 @@
-ofxNetwork
 ofxXmlSettings
-ofxUI-master
+ofxUI

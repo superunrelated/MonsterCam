@@ -20,7 +20,7 @@
 				<key>name</key>
 				<string>ofxUIWrapper.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIWrapper.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWrapper.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -35,7 +35,7 @@
 				<key>name</key>
 				<string>ofxUIWidgetWithLabel.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIWidgetWithLabel.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidgetWithLabel.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -57,7 +57,7 @@
 				<key>name</key>
 				<string>ofxUIWidgetWithLabel.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIWidgetWithLabel.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidgetWithLabel.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -72,7 +72,7 @@
 				<key>name</key>
 				<string>ofxUIWidgets.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIWidgets.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidgets.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -87,7 +87,7 @@
 				<key>name</key>
 				<string>ofxUIWidget.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIWidget.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidget.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -109,7 +109,7 @@
 				<key>name</key>
 				<string>ofxUIWidget.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIWidget.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidget.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -124,7 +124,7 @@
 				<key>name</key>
 				<string>ofxUIWaveform.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIWaveform.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWaveform.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -146,7 +146,7 @@
 				<key>name</key>
 				<string>ofxUIWaveform.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIWaveform.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIWaveform.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -161,7 +161,7 @@
 				<key>name</key>
 				<string>ofxUIValuePlotter.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIValuePlotter.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIValuePlotter.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -183,7 +183,7 @@
 				<key>name</key>
 				<string>ofxUIValuePlotter.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIValuePlotter.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIValuePlotter.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -198,7 +198,7 @@
 				<key>name</key>
 				<string>ofxUIUtils.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIUtils.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIUtils.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -213,7 +213,7 @@
 				<key>name</key>
 				<string>ofxUIToggleMatrix.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIToggleMatrix.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIToggleMatrix.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -235,7 +235,7 @@
 				<key>name</key>
 				<string>ofxUIToggleMatrix.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIToggleMatrix.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIToggleMatrix.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -250,7 +250,7 @@
 				<key>name</key>
 				<string>ofxUIToggle.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIToggle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIToggle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -272,7 +272,7 @@
 				<key>name</key>
 				<string>ofxUIToggle.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIToggle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIToggle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -287,7 +287,7 @@
 				<key>name</key>
 				<string>ofxUITextInput.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUITextInput.h</string>
+				<string>../../../addons/ofxUI/src/ofxUITextInput.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -309,7 +309,7 @@
 				<key>name</key>
 				<string>ofxUITextInput.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUITextInput.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUITextInput.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -324,7 +324,7 @@
 				<key>name</key>
 				<string>ofxUITextArea.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUITextArea.h</string>
+				<string>../../../addons/ofxUI/src/ofxUITextArea.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -346,7 +346,7 @@
 				<key>name</key>
 				<string>ofxUITextArea.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUITextArea.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUITextArea.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -361,7 +361,7 @@
 				<key>name</key>
 				<string>ofxUITabBar.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUITabBar.h</string>
+				<string>../../../addons/ofxUI/src/ofxUITabBar.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -383,7 +383,7 @@
 				<key>name</key>
 				<string>ofxUITabBar.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUITabBar.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUITabBar.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -398,7 +398,7 @@
 				<key>name</key>
 				<string>ofxUISuperCanvas.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISuperCanvas.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISuperCanvas.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -420,7 +420,7 @@
 				<key>name</key>
 				<string>ofxUISuperCanvas.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISuperCanvas.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISuperCanvas.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -435,7 +435,7 @@
 				<key>name</key>
 				<string>ofxUISpectrum.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISpectrum.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISpectrum.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -457,7 +457,7 @@
 				<key>name</key>
 				<string>ofxUISpectrum.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISpectrum.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISpectrum.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -472,7 +472,7 @@
 				<key>name</key>
 				<string>ofxUISpacer.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISpacer.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISpacer.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -494,7 +494,7 @@
 				<key>name</key>
 				<string>ofxUISpacer.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISpacer.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISpacer.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -509,7 +509,7 @@
 				<key>name</key>
 				<string>ofxUISortableList.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISortableList.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISortableList.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -531,7 +531,7 @@
 				<key>name</key>
 				<string>ofxUISortableList.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISortableList.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISortableList.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -546,7 +546,7 @@
 				<key>name</key>
 				<string>ofxUISlider.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -568,7 +568,7 @@
 				<key>name</key>
 				<string>ofxUISlider.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUISlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -583,7 +583,7 @@
 				<key>name</key>
 				<string>ofxUIScrollableCanvas.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIScrollableCanvas.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIScrollableCanvas.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -605,7 +605,7 @@
 				<key>name</key>
 				<string>ofxUIScrollableCanvas.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIScrollableCanvas.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIScrollableCanvas.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -620,7 +620,7 @@
 				<key>name</key>
 				<string>ofxUIRotarySlider.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIRotarySlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIRotarySlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -642,7 +642,7 @@
 				<key>name</key>
 				<string>ofxUIRotarySlider.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIRotarySlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIRotarySlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -657,7 +657,7 @@
 				<key>name</key>
 				<string>ofxUIRectangle.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIRectangle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIRectangle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -679,7 +679,7 @@
 				<key>name</key>
 				<string>ofxUIRectangle.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIRectangle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIRectangle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -694,7 +694,7 @@
 				<key>name</key>
 				<string>ofxUIRangeSlider.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIRangeSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIRangeSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -716,7 +716,7 @@
 				<key>name</key>
 				<string>ofxUIRangeSlider.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIRangeSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIRangeSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -731,7 +731,7 @@
 				<key>name</key>
 				<string>ofxUIRadio.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIRadio.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIRadio.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -753,7 +753,7 @@
 				<key>name</key>
 				<string>ofxUIRadio.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIRadio.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIRadio.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -768,7 +768,7 @@
 				<key>name</key>
 				<string>ofxUIOFWrapper.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIOFWrapper.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIOFWrapper.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -783,7 +783,7 @@
 				<key>name</key>
 				<string>ofxUINumberDialer.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUINumberDialer.h</string>
+				<string>../../../addons/ofxUI/src/ofxUINumberDialer.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -805,7 +805,7 @@
 				<key>name</key>
 				<string>ofxUINumberDialer.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUINumberDialer.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUINumberDialer.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -820,7 +820,7 @@
 				<key>name</key>
 				<string>ofxUIMultiImageToggle.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIMultiImageToggle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIMultiImageToggle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -842,7 +842,7 @@
 				<key>name</key>
 				<string>ofxUIMultiImageToggle.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIMultiImageToggle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIMultiImageToggle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -857,7 +857,7 @@
 				<key>name</key>
 				<string>ofxUIMultiImageButton.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIMultiImageButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIMultiImageButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -879,7 +879,7 @@
 				<key>name</key>
 				<string>ofxUIMultiImageButton.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIMultiImageButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIMultiImageButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -894,7 +894,7 @@
 				<key>name</key>
 				<string>ofxUIMovingGraph.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIMovingGraph.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIMovingGraph.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -916,7 +916,7 @@
 				<key>name</key>
 				<string>ofxUIMovingGraph.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIMovingGraph.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIMovingGraph.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -931,7 +931,7 @@
 				<key>name</key>
 				<string>ofxUIMinimalSlider.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIMinimalSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIMinimalSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -953,7 +953,7 @@
 				<key>name</key>
 				<string>ofxUIMinimalSlider.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIMinimalSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIMinimalSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -968,7 +968,7 @@
 				<key>name</key>
 				<string>ofxUILabelToggle.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUILabelToggle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUILabelToggle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -990,7 +990,7 @@
 				<key>name</key>
 				<string>ofxUILabelToggle.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUILabelToggle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUILabelToggle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1005,7 +1005,7 @@
 				<key>name</key>
 				<string>ofxUILabelButton.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUILabelButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUILabelButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1027,7 +1027,7 @@
 				<key>name</key>
 				<string>ofxUILabelButton.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUILabelButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUILabelButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1042,7 +1042,7 @@
 				<key>name</key>
 				<string>ofxUILabel.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUILabel.h</string>
+				<string>../../../addons/ofxUI/src/ofxUILabel.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1064,7 +1064,7 @@
 				<key>name</key>
 				<string>ofxUILabel.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUILabel.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUILabel.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1079,7 +1079,7 @@
 				<key>name</key>
 				<string>ofxUIImageToggle.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImageToggle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageToggle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1101,7 +1101,7 @@
 				<key>name</key>
 				<string>ofxUIImageToggle.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImageToggle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageToggle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1116,7 +1116,7 @@
 				<key>name</key>
 				<string>ofxUIImageSlider.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImageSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1138,7 +1138,7 @@
 				<key>name</key>
 				<string>ofxUIImageSlider.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImageSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1153,7 +1153,7 @@
 				<key>name</key>
 				<string>ofxUIImageSampler.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImageSampler.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageSampler.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1175,7 +1175,7 @@
 				<key>name</key>
 				<string>ofxUIImageSampler.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImageSampler.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageSampler.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1190,7 +1190,7 @@
 				<key>name</key>
 				<string>ofxUIImageButton.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImageButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1212,7 +1212,7 @@
 				<key>name</key>
 				<string>ofxUIImageButton.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImageButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1227,7 +1227,7 @@
 				<key>name</key>
 				<string>ofxUIImage.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImage.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImage.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1249,7 +1249,7 @@
 				<key>name</key>
 				<string>ofxUIImage.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIImage.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImage.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1264,7 +1264,7 @@
 				<key>name</key>
 				<string>ofxUIFPSSlider.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIFPSSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIFPSSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1286,7 +1286,7 @@
 				<key>name</key>
 				<string>ofxUIFPSSlider.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIFPSSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIFPSSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1301,7 +1301,7 @@
 				<key>name</key>
 				<string>ofxUIFPS.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIFPS.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIFPS.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1323,7 +1323,7 @@
 				<key>name</key>
 				<string>ofxUIFPS.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIFPS.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIFPS.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1338,7 +1338,7 @@
 				<key>name</key>
 				<string>ofxUIEventArgs.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIEventArgs.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIEventArgs.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1360,7 +1360,7 @@
 				<key>name</key>
 				<string>ofxUIEventArgs.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIEventArgs.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIEventArgs.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1375,7 +1375,7 @@
 				<key>name</key>
 				<string>ofxUIDropDownList.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIDropDownList.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIDropDownList.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1397,7 +1397,7 @@
 				<key>name</key>
 				<string>ofxUIDropDownList.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIDropDownList.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIDropDownList.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1412,7 +1412,7 @@
 				<key>name</key>
 				<string>ofxUIDragableLabelButton.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIDragableLabelButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIDragableLabelButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1434,7 +1434,7 @@
 				<key>name</key>
 				<string>ofxUIDragableLabelButton.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIDragableLabelButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIDragableLabelButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1449,7 +1449,7 @@
 				<key>name</key>
 				<string>ofxUIDefines.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIDefines.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIDefines.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1464,7 +1464,7 @@
 				<key>name</key>
 				<string>ofxUICircleSlider.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUICircleSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUICircleSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1486,7 +1486,7 @@
 				<key>name</key>
 				<string>ofxUICircleSlider.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUICircleSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUICircleSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1501,7 +1501,7 @@
 				<key>name</key>
 				<string>ofxUICanvas.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUICanvas.h</string>
+				<string>../../../addons/ofxUI/src/ofxUICanvas.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1523,7 +1523,7 @@
 				<key>name</key>
 				<string>ofxUICanvas.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUICanvas.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUICanvas.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1538,7 +1538,7 @@
 				<key>name</key>
 				<string>ofxUIButton.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1560,7 +1560,7 @@
 				<key>name</key>
 				<string>ofxUIButton.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1575,7 +1575,7 @@
 				<key>name</key>
 				<string>ofxUIBiLabelSlider.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIBiLabelSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIBiLabelSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1597,7 +1597,7 @@
 				<key>name</key>
 				<string>ofxUIBiLabelSlider.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIBiLabelSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIBiLabelSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1612,7 +1612,7 @@
 				<key>name</key>
 				<string>ofxUIBaseDraws.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIBaseDraws.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIBaseDraws.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1634,7 +1634,7 @@
 				<key>name</key>
 				<string>ofxUIBaseDraws.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUIBaseDraws.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIBaseDraws.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1649,7 +1649,7 @@
 				<key>name</key>
 				<string>ofxUI2DPad.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUI2DPad.h</string>
+				<string>../../../addons/ofxUI/src/ofxUI2DPad.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1671,7 +1671,7 @@
 				<key>name</key>
 				<string>ofxUI2DPad.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUI2DPad.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUI2DPad.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1686,7 +1686,7 @@
 				<key>name</key>
 				<string>ofxUI2DGraph.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUI2DGraph.h</string>
+				<string>../../../addons/ofxUI/src/ofxUI2DGraph.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1708,7 +1708,7 @@
 				<key>name</key>
 				<string>ofxUI2DGraph.cpp</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUI2DGraph.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUI2DGraph.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1827,7 +1827,7 @@
 				<key>isa</key>
 				<string>PBXGroup</string>
 				<key>name</key>
-				<string>ofxUI-master</string>
+				<string>ofxUI</string>
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
@@ -1842,7 +1842,7 @@
 				<key>name</key>
 				<string>ofxUI.h</string>
 				<key>path</key>
-				<string>../../../addons/ofxUI-master/src/ofxUI.h</string>
+				<string>../../../addons/ofxUI/src/ofxUI.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -2618,8 +2618,8 @@
 						<string>../../../addons/ofxNetwork/src</string>
 						<string>../../../addons/ofxXmlSettings/libs</string>
 						<string>../../../addons/ofxXmlSettings/src</string>
-						<string>../../../addons/ofxUI-master/libs</string>
-						<string>../../../addons/ofxUI-master/src</string>
+						<string>../../../addons/ofxUI/libs</string>
+						<string>../../../addons/ofxUI/src</string>
 					</array>
 					<key>ARCHS</key>
 					<string>$(NATIVE_ARCH)</string>
@@ -2682,8 +2682,8 @@
 						<string>../../../addons/ofxNetwork/src</string>
 						<string>../../../addons/ofxXmlSettings/libs</string>
 						<string>../../../addons/ofxXmlSettings/src</string>
-						<string>../../../addons/ofxUI-master/libs</string>
-						<string>../../../addons/ofxUI-master/src</string>
+						<string>../../../addons/ofxUI/libs</string>
+						<string>../../../addons/ofxUI/src</string>
 					</array>
 					<key>ARCHS</key>
 					<string>$(NATIVE_ARCH)</string>
