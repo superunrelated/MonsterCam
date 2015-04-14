@@ -20,12 +20,4 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-    
-        
-    
-        ofxUICanvas *gui;
-        void exit();
-        void guiEvent(ofxUIEventArgs &e);
-    
-        string volumePath;
 };
