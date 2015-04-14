@@ -22,4 +22,6 @@ class ofApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);
     
         ofxUICanvas *gui;
+        void exit();
+        void guiEvent(ofxUIEventArgs &e);
 };

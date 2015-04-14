@@ -3,6 +3,28 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     gui = new ofxUICanvas();
+    
+    gui->addSlider("BACKGROUND",0.0,255.0,100.0);
+    gui->addToggle("FULLSCREEN", false);
+    gui->autoSizeToFitWidgets();
+    ofAddListener(gui->newGUIEvent, this, &ofApp::guiEvent);
+    gui->loadSettings("settings.xml");
+}
+
+void ofApp::exit(){
+    gui->saveSettings("settings.xml");
+    delete gui;
+}
+
+void ofApp::guiEvent(ofxUIEventArgs &e){
+    if(e.getName() == "BACKGROUND"){
+        ofxUISlider *slider = e.getSlider();
+        ofBackground(slider->getScaledValue());
+    }
+    else if(e.getName() == "FULLSCREEN"){
+        ofxUIToggle *toggle = e.getToggle();
+        ofSetFullscreen(toggle->getValue());
+    }
 }
 
 //--------------------------------------------------------------
