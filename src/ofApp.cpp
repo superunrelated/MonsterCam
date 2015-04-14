@@ -9,6 +9,27 @@ void ofApp::setup(){
     gui->autoSizeToFitWidgets();
     ofAddListener(gui->newGUIEvent, this, &ofApp::guiEvent);
     gui->loadSettings("settings.xml");
+
+    switch (ofGetTargetPlatform()){
+        case OF_TARGET_OSX:
+            cout << "OF_TARGET_OSX";
+            volumePath = "/Volumes";
+            break;
+        case OF_TARGET_LINUX:
+            cout << "OF_TARGET_LINUX";
+            volumePath = "/media";
+            break;
+        case OF_TARGET_LINUXARMV6L:
+            cout << "OF_TARGET_LINUXARMV6L";
+            volumePath = "/media";
+            break;
+        case OF_TARGET_LINUXARMV7L:
+            cout << "OF_TARGET_LINUXARMV7L";
+            volumePath = "/media";
+            break;
+        default:
+            break;
+    }
 }
 
 void ofApp::exit(){
@@ -40,7 +61,17 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
+    //some path, may be absolute or relative to bin/data
+    ofDirectory dir(volumePath);
+    //only show png files
+    //    dir.allowExt("png");
+    //populate the directory object
+    dir.listDir();
     
+    //go through and print out all the paths
+    for(int i = 0; i < dir.numFiles(); i++){
+        ofLogNotice(dir.getPath(i));
+    }
 }
 
 //--------------------------------------------------------------
